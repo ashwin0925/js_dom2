@@ -1,0 +1,9 @@
+.btn{
+    margin-top: 20px;
+}
+.success {
+    color: green;
+}
+.result,.result2,.result3 {
+    color:red;
+}
